@@ -1,0 +1,6 @@
+print("\n - Display new line")
+print("\t - Indent by 4 Spaces")
+print("\\ - Dispay a backslash")
+print("\" - Dispalying a double-quote")
+print("\' -Display a single-quote")
+print("\n\t\"I am Beep!\"\n")
