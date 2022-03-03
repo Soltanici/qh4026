@@ -1,0 +1,24 @@
+print("Where should I look?")
+asnwer = input()
+if answer == " in the bedroom" :
+ print("Where in the bedroom should I look?")
+  answer = input()
+if answer2 == "under the bed":
+  print("Found some shoes, but no battery")
+else:
+  print("Found some mess, but not battery")
+elif answer == "in the bathroom"
+  print("Where in the bathroom should I look")
+asnwer2 = input()
+if asnwer2 == "in the bathtub"
+  print("Found rubberduck , but no battery")
+else:
+  print("Found a wet surface, but not battery")
+elif asnwer == "in the lab"
+  print("Where in the lab should I look")
+if answer2 == "on the table"
+  print("Yes, Ifound my battery!")
+else:
+  print("Found some tools, but not battery")
+else:
+print("I do not know where that is, but will keep looking")
